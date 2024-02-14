@@ -141,14 +141,16 @@ iframe {
 .txt2 {
   font-family: Ubuntu-Regular;
   font-size: 15px;
-  color: #57b846;
+  /*color: #57b846;*/
+  color: #5377be;
   line-height: 1.4;
 }
 
 .txt3 {
   font-family: Ubuntu-Bold;
   font-size: 15px;
-  color: #57b846;
+  /*color: #57b846;*/
+  color: #5377be;
   line-height: 1.4;
   text-transform: uppercase;
 }
@@ -298,7 +300,8 @@ iframe {
   padding: 0 20px;
   width: 100%;
   height: 50px;
-  background-color: #57b846;
+   /*background-color: #57b846;*/
+   background-color: #5377be;
   border-radius: 25px;
 
   font-family: Ubuntu-Bold;
