@@ -202,7 +202,8 @@ iframe {
 }
 
 .login100-form-title {
-  font-family: JosefinSans-Bold;
+  font-family: Ubuntu-Bold;
+  /*font-family: JosefinSans-Bold;*/
   font-size: 30px;
   color: #fff;
   line-height: 1.2;
